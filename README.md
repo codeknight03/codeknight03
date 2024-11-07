@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate DevOps enthusiast working on GPU observability.  I have been actively contributing to the community in different projects most notable of which are Alertmanager and Prometheus Operator. <br><br>I am currently working on building an exporter for slurm metrics using the slurm rest apis. <br><br>
+I am passionate DevOps enthusiast working on GPU observability.  I have been actively contributing to the community in different projects most notable of which are Alertmanager and Prometheus Operator.
 
 
 # 💻 Tech Stack:
